@@ -1,12 +1,5 @@
 ## Hi there 👋
+ 
+We develop Artificial Intelligence (AI) approaches that use knowledge to accelerate and innovate scientific discovery processes that are unnecessarily carried out manually and inefficiently today.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We work on a variety of AI research areas, such as semantic workflows, human-guided machine learning, interdisciplinary model integration, knowledge networks, controlled crowdsourcing of metadata, and automated hypothesis-driven discovery. A key theme in our projects is the use of AI technologies for different aspects of data science processes in order to make them more efficient.
